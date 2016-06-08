@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:51.950178
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:51
 #+TITLE: 彰所知論
 #+PROPERTY: CBETA_ID T32n1645
 #+PROPERTY: ID KR6o0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1645
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0049_T_000-0226a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0049_T_001-0226a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1645¶
+No. 1645¶
 
-彰所知論序
-:PROPERTIES:
-:head: 彰所知論序
-:END:
-¶
+* 彰所知論序¶
 ¶
 元正奉大夫同知行宣政院事廉復譔¶
 
@@ -35,8 +31,7 @@ No.1645¶
 踈硯。豈足發正教之光耶。公笑之曰。汝何謙¶
 哉。予不敢辭。遂序焉。
 <pb:KR6o0049_T_001-0226b>¶
-
- 彰所知論卷上¶
+彰所知論卷上¶
 ¶
 元帝師發合思巴造¶
 宣授江淮福建等處釋教總統法性¶
@@ -50,11 +45,7 @@ No.1645¶
 智。當演彰所知。謂器情世界。道法與¶
 果法。并諸無為法。略攝列為五。¶
 
-1器世界品
-:PROPERTIES:
-:head: 器世界品第一
-:END:
-¶
+* 器世界品第一¶
 
 謂器世界所成之體。即四大種。種具生故。地¶
 堅水濕火煖風動。是等大種。最極微細者曰¶
@@ -231,11 +222,7 @@ No.1645¶
 謂曰色界。無色界者。無別處所。若有生者。何¶
 處命終即彼生處。住無色定故曰無色。¶
 
-2情世界品
-:PROPERTIES:
-:head: 情世界品第二
-:END:
-¶
+* 情世界品第二¶
 
 謂情世界總有六種。一者地獄。二者餓鬼。三¶
 者傍生。四者人。五者非天。六者天。此等六種¶

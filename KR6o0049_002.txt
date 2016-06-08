@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:51.987706
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:51
 #+TITLE: 彰所知論
 #+PROPERTY: CBETA_ID T32n1645
 #+PROPERTY: ID KR6o0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1645
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0049_T_000-0226a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0049_T_002-0231c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 彰所知論卷下¶
+彰所知論卷下¶
 ¶
 元帝師癹合思巴造¶
 宣授江淮福建等處釋教總統¶
@@ -177,7 +176,7 @@
 種唯修所斷。遍意識地。名小煩惱地法。六不¶
 定法者。有八種。尋謂令心於境麁轉為相。伺¶
 謂令心於境細轉為相。惡作謂惡所作業是¶
-追悔義。睡眠謂不能任持身心相續。令心昧¶
+追悔義。唾眠謂不能任持身心相續。令心昧¶
 略。瞋謂令心於有情等樂為損害。貪謂愛著¶
 有漏。慢謂令心恃舉。疑謂令心猶豫。如是八¶
 種於前諸地無有定故。名曰不定。對法集論¶
@@ -211,11 +210,7 @@
 無為法無表色等。總名法界。亦名法處。如是¶
 所說。所知五法五蘊。并十二處。及十八界。¶
 
-3道法品
-:PROPERTIES:
-:head: 道法品第三
-:END:
-¶
+* 道法品第三¶
 
 復次道者。謂彼少欲知足。具種性者。身心遠¶
 離種種群雜。住近事戒等。應當勤聞。若廣聞¶
@@ -264,11 +259,7 @@
 業。正命。正進。正念。正定。正解脫。正解脫知¶
 見。是無學道。¶
 
-4果法品
-:PROPERTIES:
-:head: 果法品第四
-:END:
-¶
+* 果法品第四¶
 
 復次果者。如上所說三十七品菩提分法。為¶
 自解脫輪迴發心。利根極速。三生證阿羅漢。¶
@@ -337,9 +328,9 @@
 「　天地此界多聞室
 　逝宮天處十方無¶
 　丈夫牛王大沙門
-　尋地山林遍無等
+　尋地山林遍無等」
 #+END_VERSE
-」¶
+¶
 
 如是讚已便超九劫。進波羅蜜究竟圓滿。處¶
 圓滿處金剛座。初夜分時降諸群魔。後夜分¶
@@ -477,11 +468,7 @@
 說。如來十八不共法。三不護等。彼聲聞乘未¶
 曾聞故。¶
 
-5無為法品
-:PROPERTIES:
-:head: 無為法品第五
-:END:
-¶
+* 無為法品第五¶
 
 復次無為法者。有其三種。一虛空。二擇滅。¶
 三非擇滅。謂虛空無為者。虛空但有無還為¶
@@ -528,9 +515,9 @@
 　所生諸善根
 　周遍虛空界¶
 　我共諸眾生
-　願證無上果
+　願證無上果」
 #+END_VERSE
-」¶
+¶
 
 彰所知論者。為菩薩真金皇太子求請故。法¶
 王上師薩思迦大班彌達足塵頂授比丘癹思¶
@@ -576,58 +563,58 @@
 <pb:KR6o0049_T_002-0238a>¶
 ¶
 
-(A)Namastraiyabdhikānāṃtathāgatānāṃsavartrāpratihatāvāptidharmatābalināṃ,oṁasama-¶
+(A) Namastraiyabdhikānāṃ tathāgatānāṃ savartrāpratihatāvāptidharmatābalināṃ, oṁ asama-¶
 
-　　samasamantato'nantanāvāptiśāsani,harasmarasmaraṇavigatarāgabuddhadhaumate,sara¶
+　　sama samantato 'nantanāvāptiśāsani, hara smara smaraṇa vigatarāgabuddhadhaumate, sara¶
 
-　　sarasamabalā,hasahasa,traya,traya,gaganamahācalarakṣaṇa,jvalajvalanasāgaresvāhā.¶
+　　sara samabalā, hasa hasa, traya, traya, gagana mahācalarakṣaṇa, jvala jvalana sāgare svāhā.¶
 
-(B)Namastraiyabhikānāṃtathāgatānāṃsarvavajradharāṇāṃcaṇḍālacaṇḍāla,calacala,vajra¶
+(B) Namastraiyabhikānāṃ tathāgatānāṃ sarvavajradharāṇāṃ caṇḍāla caṇḍāla, cala cala, vajra¶
 
-　　vajra,śāntanaśāntana,phalanaphalana,caracara,māraṇamāraṇa,vajradālakaṭa,lalitaśi-¶
+　　vajra, śāntana śāntana, phalana phalana, cara cara, māraṇa māraṇa, vajradālakaṭa, lalitaśi-¶
 
-　　kharasamantavajriṇi,jvalajvala,namośtrteagrograśāsānānāṃraṇaraṇahaṃphula¶
+　　khara samantavajriṇi, jvala jvala, namośtr te agrograśāsānānāṃ raṇa raṇa haṃ phula¶
 
-　　sphāṭavajrottamesvāhā.¶
+　　sphāṭa vajrottame svāhā.¶
 
-(C)Namaḥsamantavajrāṇaṃtrāṭa,amoghacaṇḍamahāroṣaṇasphāṭayahūṃ,bhrāmayabhrā-¶
+(C) Namaḥ samantavajrāṇaṃ trāṭa, amogha caṇḍamahāroṣaṇa sphāṭaya hūṃ, bhrāmaya bhrā-¶
 
-　　mayahūṃ,trāṭahūṃ,maṁ,balaṃdadetejomālinisvāhā.¶
+　　maya hūṃ, trāṭa hūṃ, maṁ, balaṃ dade tejomālini svāhā.¶
 
-(D)Tadyathā,ilimittetilimitte,ilitilimitte,dumbe,duḥse,duḥsālīye,dumbālīye,takketark-¶
+(D) Tadyathā, ilimitte tilimitte, ilitilimitte, dumbe, duḥse, duḥsālīye, dumbālīye, takke tark-¶
 
-　　karaṇe,marmme,marmaraṇe,kaśmīre,kaśmīramukte,aghane,aghanaghane,ilimilīye,ak-¶
+　　karaṇe, marmme, marmaraṇe, kaśmīre, kaśmīramukte, aghane, aghanaghane, ilimilīye, ak-¶
 
-　　hāpye,apāpyeśvete,śvetatuṇḍe,anānurakṣesvāhā.¶
+　　hāpye, apāpye śvete, śvetatuṇḍe, anānurakṣe svāhā.¶
 
-(E)Tadyathā,illā,cillā,cakko,bakko,koḍākoḍoti,nikuruḍānikuruḍeti,poḍāpoḍeti,moḍā,¶
+(E) Tadyathā, illā, cillā, cakko, bakko, koḍā koḍoti, nikuruḍā nikuruḍeti, poḍā poḍeti, moḍā,¶
 
-　　moḍeti,puruḍāpuruḍeti,phaṭarahephuṭaṭaṇḍarahe,nāgarahe,nāgaṭaṭaṇḍarahe,sarpa¶
+　　moḍeti, puruḍā puruḍeti, phaṭarahe phuṭaṭaṇḍa rahe, nāga rahe, nāgaṭaṭaṇḍa rahe, sarpa¶
 
-　　rahe,sarpaṭaṭaṇḍarahe,chalaviṣaśāte,śītacattāle,halale,halale,taṇḍi,taḍataḍa,¶
+　　rahe, sarpaṭaṭaṇḍarahe, chala viṣaśāte, śītacattāle, halale, halale, taṇḍi, taḍa taḍa,¶
 
-　　tāḍitāḍi,malamala,sphuṭasphuṭa,phuṭusvāhā.¶
+　　tāḍi tāḍi, mala mala, sphuṭa sphuṭa, phuṭu svāhā.¶
 
-　　Itihibhikṣavojāṅgulyāṃvidyāyāṃudāhṛtāyāṃsarvabhūtasamāgatesarvaṃtathāvita-¶
+　　Iti hi bhikṣavo jāṅgulyāṃ vidyāyāṃ udāhṛtāyāṃ sarvabhūtasamāgate sarvaṃ tathāvita-¶
 
-　　thānanyathābhūtaṃsatyamaviparītamaviparyastaṃ,idaṃviṣamavisaṃbhavatu,dātāraṃ¶
+　　thānanyathābhūtaṃ satyamaviparītamaviparyastaṃ, idaṃ viṣamavisaṃ bhavatu, dātāraṃ¶
 
-　　gacchatu,daṃṣṭrāraṃgacchatu,agniṃgacchatujalaṃgacchatu,sthalaṃgacchatu,stambh-¶
+　　gacchatu, daṃṣṭrāraṃ gacchatu, agniṃ gacchatu jalaṃ gacchatu, sthalaṃ gacchatu, stambh-¶
 
-　　aṃgacchatu,kuḍyamgacchatu,bhūmiṃsamkrāmatu,śāntimgacchatusvāhā.¶
+　　aṃ gacchatu, kuḍyam gacchatu, bhūmiṃ samkrāmatu, śāntim gacchatu svāhā.¶
 
-(F)Tadyathā,parākramasi,udayamasi,vairamasi,arkamasi,markamasi,vanamasi,antarddhā-¶
+(F) Tadyathā, parākramasi, udayamasi, vairamasi, arkamasi, markamasi, vanamasi, antarddhā-¶
 
-　　namasi,pathemerakṣa,utpathemerakṣajanatomerakṣa,cairatomerakṣa,rājatome¶
+　　namasi, pathe me rakṣa, utpathe me rakṣa janato me rakṣa, cairato me rakṣa, rājato me¶
 
-　　rakṣa,siṃhatomerakṣavyāghratomerakṣa,nāgatomerakṣa,sarpatomerakṣa,sarvato¶
+　　rakṣa, siṃhato me rakṣa vyāghrato me rakṣa, nāgato me rakṣa, sarpato me rakṣa, sarvato¶
 
-　　merakṣa,rakṣarakṣa,māṃsarvasattvāṃścasarvabhayebhyaḥsarvopāyesarvopāyesopasargebhyaḥ¶
+　　me rakṣa, rakṣa rakṣa, māṃ sarvasattvāṃśca sarvabhayebhyaḥ sarvopāye sarvopāye sopasargebhyaḥ¶
 
-　　svāhā.Uṁvaḍiliuṁvaḍilisarvaduṣṭānāṃgranthiṃvandāmisvāhā.¶
+　　svāhā. Uṁvaḍili uṁvaḍili sarvaduṣṭānāṃ granthiṃ vandāmi svāhā.¶
 
-　　Namoratnatrayāya,namomārīcyaidevatāyai,mārīcyādevatāyāhṛdayamāvartayiṣyāmi.¶
+　　Namo ratnatrayāya, namo mārīcyai devatāyai, mārīcyā devatāyā hṛdayamāvartayiṣyāmi.¶
 
-　　Tadyathābattāli,badāli,badāli,barāli,varāhamukhi,sarvaduṣṭānāṃnivāraya,bandha¶
+　　Tadyathā battāli, badāli, badāli, barāli, varāhamukhi, sarvaduṣṭānāṃ nivāraya, bandha¶
 
-　　mukhaṃsvāhā.
+　　mukhaṃ svāhā.
